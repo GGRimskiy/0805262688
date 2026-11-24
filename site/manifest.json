@@ -1,0 +1,17 @@
+{
+  "name": "Азалия — Наша история",
+  "short_name": "Азалия",
+  "description": "Личная кинематографичная хроника нашей истории",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#02080f",
+  "theme_color": "#04121d",
+  "icons": [
+    {
+      "src": "./favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
